@@ -1,5 +1,19 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+  <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" />
+</p>
+
+<h1 align="center">Task Management API</h1>
+
+<p align="center">
+  A robust and scalable task management API built with NestJS, Prisma, and TypeScript.
+</p>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#api-endpoints">API Endpoints</a> •
+  <a href="#contributing">Contributing</a>
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
